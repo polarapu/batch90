@@ -1,43 +1,43 @@
-git initfhdjfkd,fd  ( to intilize the empty git repo)
-vfd
-gitvfd config --global user.name "Polarapu Prasad"   (to configure user)
-bv
-gifbt config --global user.email "devopstraining2015@gmail.com"   (to configure email)
-fd
-gibfdt config --list
-b
-gfdbit config --global --unset user.name  (to unset user.name)
-bfbgdfgfdbfd
-git config -gdf-global --unset user.email  (to unset user.email)
-b
-b
--dfb----------------------
-fdb
-toufbfdbch file1
-lsdfb
-git sdftatus
-git addbg file1  (workspace to staging)
-git statujghs
-git commit -jgm "label" file1  (staging to local)
-git statusj
-git loggj
-git show jhcid
-ag
-==dfh=ghj==================
-touch filgfehfd2bf
-touch file3b
-orgfh
-touchg file2 file3 file4 file5
-lsfgb
-git sftatus
-git addbfg bfgfile2 file3 file4 file5
-orbdf
-git afdd .
-orgt
-git hjadd *
-ork
-githngf add -A
-bvc
+git init  ( to intilize the empty git repo)
+
+git config --global user.name "Polarapu Prasad"   (to configure user)
+
+git config --global user.email "devopstraining2015@gmail.com"   (to configure email)
+
+git config --list
+
+git config --global --unset user.name  (to unset user.name)
+
+git config --global --unset user.email  (to unset user.email)
+
+
+-----------------------
+
+touch file1
+ls
+git status
+git add file1  (workspace to staging)
+git status
+git commit -m "label" file1  (staging to local)
+git status
+git log
+git show cid
+
+=====================
+touch file2
+touch file3
+or
+touch file2 file3 file4 file5
+ls
+git status
+git add file2 file3 file4 file5
+or
+git add .
+or
+git add *
+or
+git add -A
+
 git status
 git commit -m "label" 
 git status
