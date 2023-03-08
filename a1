@@ -1,4 +1,8 @@
 Hello all, Good eveng :)
 test data1
 Welcome to DevOps World!
+<<<<<<< HEAD
 test line added
+=======
+test dat 2
+>>>>>>> release1
